@@ -1,11 +1,6 @@
 windpark/MOMReceiver.java
  windpark.MOMReceiver
-windpark/WindengineData.java
- windpark.WindengineData
 windpark/MOMApplication.java
  windpark.MOMApplication
- windpark.MOMApplication$1
-windpark/WindengineSimulation.java
- windpark.WindengineSimulation
-windpark/MOMSender.java
- windpark.MOMSender
+windpark/service/WindparkSimulation.java
+ windpark.service.WindparkSimulation
